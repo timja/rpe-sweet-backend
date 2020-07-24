@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "rpe-sweet-backend"
+  description: Sweet as backend
+spec:
+  type: service
+  lifecycle: experimental
+  owner: timja
