@@ -1,6 +1,5 @@
 # sweet-backend
 
-
 The application exposes health endpoints (http://localhost:4550/health) and metrics endpoint
 (http://localhost:4550/metrics).
 
